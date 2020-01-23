@@ -16,3 +16,6 @@ Run through commands to make a commit history
 git add .
 git commit -m "initial commit"
 '''
+
+## Step 5
+Commands to connect to remote repository 
